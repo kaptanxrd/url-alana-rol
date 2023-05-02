@@ -11,4 +11,4 @@ discord: kwptan#0001
 sunucu: discord.gg/wuptixd
 
 # Star atmayi unutma la 
-https://media.discordapp.net/attachments/1102838801438609460/1102843501953171487/Screenshot_2023-05-02_101048.png
+![image](https://media.discordapp.net/attachments/1102838801438609460/1102843501953171487/Screenshot_2023-05-02_101048.png)
