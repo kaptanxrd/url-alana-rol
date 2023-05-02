@@ -1,0 +1,21 @@
+{
+    "Main": {
+
+        "botToken": "token",
+        "botDeveloper": "sahip id"
+    },
+    "Others": {
+
+        "botPrefix": ".",
+        "botStatus": ["durum 1", "durum 2"],
+        "botCooldown": 8
+
+    }, 
+    "System": {
+
+        "URL": "sunucu urlniz örnek: .gg/wuptixd",
+        "ROL": "url alinca verilecek rol id",
+        "LOG": "url log kanalinin id"
+
+    }
+}

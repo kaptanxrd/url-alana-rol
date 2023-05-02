@@ -1,0 +1,23 @@
+{
+  "name": "v14-register-modals",
+  "version": "1.0.0",
+  "description": "Discord Modals ile yapılmış v14 kayıt botu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "FelixarJS",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.8.3",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
